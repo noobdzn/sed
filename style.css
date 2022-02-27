@@ -107,12 +107,12 @@ span{
 display: inline-block;
 }
 
-.imgaes:hover .shape{
+.imgages:hover .shape{
     bottom: 40px;   
 }
 
-.images:hover .ani{
-    left: 70%;
+.images1:hover .ani{
+    left: 45%;
 }
 
 .social{
