@@ -84,6 +84,14 @@ span{
     right: 100px;
 
 }
+.images1{
+    width: 45%;
+    height: 80%;
+    position: absolute;
+    bottom: 0%;
+    right: 100px;
+
+}
 
 .images img{
     height: 100%;
