@@ -94,6 +94,19 @@ span{
     transition: bottom 1s, left 1s;
 }
 
+.images1 img{
+    height: 100%;
+    position: absolute;
+    left: 70%;
+    bottom: 0;
+    transform: translateX(-10%);
+    transition: bottom 1s, left 1s;
+}
+
+.im{
+display: inline-block;
+}
+
 .imgaes:hover .shape{
     bottom: 40px;   
 }
