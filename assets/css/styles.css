@@ -1,0 +1,48 @@
+.index {
+  width: 100%;
+  background: transparent;
+  height: 500px;
+}
+
+.footer-clean {
+  background: #5865f2;
+  color: rgb(255,255,255);
+}
+
+.navigation-clean-button {
+  background: #800080;
+  color: rgb(0,209,255);
+}
+
+#navcol-1 {
+}
+
+.navbar {
+  background: #5865f2;
+}
+
+.navbar-brand {
+  font-weight: bold;
+  font-family: 'Cedarville Cursive', serif;
+}
+
+div {
+}
+
+#parallax {
+  height: 100vh;
+  background: url("https://cdn.dribbble.com/…rtical=top") center / contain repeat;
+  width: 100%;
+}
+
+body {
+  font-family: 'Fira Code', monospace;
+}
+
+.item.abouteach {
+}
+
+.item.each {
+  background: #ff5b5b;
+}
+
