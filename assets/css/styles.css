@@ -1,7 +1,7 @@
 .index {
   width: 100%;
   background: transparent;
-  height: 500px;
+  height: auto;
 }
 
 .footer-clean {
@@ -14,9 +14,6 @@
   color: rgb(0,209,255);
 }
 
-#navcol-1 {
-}
-
 .navbar {
   background: #5865f2;
 }
@@ -24,9 +21,6 @@
 .navbar-brand {
   font-weight: bold;
   font-family: 'Cedarville Cursive', serif;
-}
-
-div {
 }
 
 #parallax {
@@ -37,12 +31,18 @@ div {
 
 body {
   font-family: 'Fira Code', monospace;
+  background: rgb(255, 255, 255);
 }
 
 .item.abouteach {
 }
 
-.item.each {
-  background: #ff5b5b;
+.box:hover {
+  color: #5865f2;
+  border-style: inset;
+  border-top-width: 5px;
+  border-top-color: #a8afff;
+  border-left-width: 5px;
+  border-left-color: #a8afff;
 }
 
